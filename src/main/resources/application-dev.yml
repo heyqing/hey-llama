@@ -1,0 +1,5 @@
+server:
+  port: 9999
+llama:
+  baseUrl: http://localhost:11434
+  model: llama3.2:latest
